@@ -1,0 +1,6 @@
+__pycache__
+files
+parsedRules.json
+test_failures.log
+.venv
+data
